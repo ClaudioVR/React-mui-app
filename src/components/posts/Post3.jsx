@@ -18,7 +18,7 @@ const Post = () => {
       <CardHeader
         avatar={
           <Avatar sx={{ bgcolor: "red" }} aria-label="recipe">
-            R
+            E
           </Avatar>
         }
         action={
@@ -26,20 +26,18 @@ const Post = () => {
             <MoreVert />
           </IconButton>
         }
-        title="Claude Ragno"
-        subheader="September 14, 2021"
+        title="Elen Pellen"
+        subheader="September 7, 2021"
       />
       <CardMedia
         component="img"
         height="20%"
-        image="https://i.picsum.photos/id/103/2592/1936.jpg?hmac=aC1FT3vX9bCVMIT-KXjHLhP6vImAcsyGCH49vVkAjPQ"
+        image="https://i.picsum.photos/id/1011/5472/3648.jpg?hmac=Koo9845x2akkVzVFX3xxAc9BCkeGYA9VRVfLE4f0Zzk"
         alt="Paella dish"
       />
       <CardContent>
-        <Typography variant="body2" color="text.secondary">
-          This impressive paella is a perfect party dish and a fun meal to cook
-          together with your guests. Add 1 cup of frozen peas along with the
-          mussels, if you like.
+        <Typography variant="body1" color="text.secondary">
+          Look at that water!!!!!!!
         </Typography>
       </CardContent>
       <CardActions disableSpacing>
